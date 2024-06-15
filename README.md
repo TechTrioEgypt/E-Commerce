@@ -24,6 +24,9 @@ Advanced Search and Filtering: Users can easily find products using advanced sea
 -Wishlist Functionality: Users can save products to their wishlist for future reference and easy access.
 
 Why Choose Tech Trio Company?
+
 Tech Trio Company's e-commerce platform is designed to help businesses thrive in the competitive online market. Our focus on high-quality development, user-centric design, and robust functionality ensures that our clients receive a product that not only meets but exceeds their expectations. By choosing Tech Trio Company, you are partnering with a team of dedicated professionals committed to delivering solutions that drive growth and success.
 
 Explore our e-commerce project [here](https://techtrioegypt.github.io/E-Commerce/) and see firsthand the quality and innovation that Tech Trio Company brings to the table. Let us help you transform your business with our cutting-edge digital solutions.
+
+For more information, please contact us at techtrio.eg@gmail.com or +201140700849
