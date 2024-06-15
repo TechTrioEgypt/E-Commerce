@@ -29,4 +29,4 @@ Tech Trio Company's e-commerce platform is designed to help businesses thrive in
 
 Explore our e-commerce project [here](https://techtrioegypt.github.io/E-Commerce/) and see firsthand the quality and innovation that Tech Trio Company brings to the table. Let us help you transform your business with our cutting-edge digital solutions.
 
-For more information, please contact us at techtrio.eg@gmail.com or +201140700849
+For more information, please contact us at techtrio.eg@gmail.com
